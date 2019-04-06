@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace MVC.Models
+namespace API.Models
 {
     public class DataContext:DbContext
     {
