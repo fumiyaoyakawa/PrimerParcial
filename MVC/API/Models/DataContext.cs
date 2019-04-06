@@ -13,5 +13,6 @@ namespace API.Models
 
         }
 
+        public System.Data.Entity.DbSet<API.Models.FumiyaOyakawaFriend> FumiyaOyakawaFriends { get; set; }
     }
 }
